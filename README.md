@@ -13,4 +13,4 @@ Entire project sketch as it currently exists.  Need to add your cell number as y
 
 
 fabulous_jarv.stl
-Stereolith file for display bracket
+Stereolith file for display bracket (haven't figured out how to upload a file like this)
