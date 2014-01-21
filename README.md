@@ -2,7 +2,7 @@ GSMTextMessage2LCD
 ==================
 Arduino sketch files and other files for the project
 
-ReceiveSMS_mod01p.ino
+ReceiveSMS_modP.ino
 Sketch to run to test GSM portion of project.  Need to add your cell number so it can be compared with caller number.
 
 sketch_stringmanip_i.ino
